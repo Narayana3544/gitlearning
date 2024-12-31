@@ -2,4 +2,9 @@ git init
 git add 
 git status 
 git commit
-
+git log
+git reset id :comes to paricular commit
+git restore
+git restore -unstaged file_name:gives the restoration of the unstaged/uncommited file
+git stash :keeping files somewhre else when we want them we will get that back by "git stash pop" command
+git stash clear :to clear/delete the files in the background
