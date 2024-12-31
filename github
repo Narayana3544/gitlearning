@@ -1,0 +1,4 @@
+git remote add origin url(you copied when created a repository in github)
+git branch -M main:changing branch to main
+git push origin main :pushing all my commits into github
+
